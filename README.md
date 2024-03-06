@@ -1,9 +1,9 @@
 The project name: Task Manager
 
 Table of Contents
-1.	Description of your project
-2.	Installation	
-3.	Usage and outputs	
+I.	Description of your project
+II.	Installation	
+III.	Usage and outputs	
 
 
 1.	Description of your project:
