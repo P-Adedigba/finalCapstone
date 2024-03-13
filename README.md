@@ -1,18 +1,5 @@
 The project name: Task Manager
 
-Table of Contents
-I.	Description of project
-II.	Getting Started and Installation	
-III.	Usage and sample outputs
-IV. Credits 
-
-
-The project name: Task Manager
-Table of Contents
-1.	Description of your project:	1
-2.	Getting Started and Installation	1
-3.	Usage and outputs	1
-
 
 1.	Description of project:
   Lists, dictionaries, functions, string and files were all used in the program. Adequate steps was also taken to deal with user errors as well as security in the code. The users are also able to add and assign tasks to users and monitor progress. Six different 
